@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Gaurav Pahuja! 👋</h1>
-  <p><b>Senior Software Engineer | Backend & AI Specialist | Forward Deployed Engineer</b></p>
+  <p><b> Backend & AI Specialist </b></p>
   
   <p>
     <a href="https://www.linkedin.com/in/gaurav-pahuja-396a3388"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
