@@ -18,23 +18,23 @@ I specialize in building high-throughput backend services and productionizing Ag
 
 ---
 
-### 🛠️ Skills & Technologies
+###  Skills & Technologies
 
-#### 🤖 Generative AI & Agentic Workflows
+####  Generative AI & Agentic Workflows
 ![](https://img.shields.io/badge/Model_Context_Protocol_(MCP)-3178C6?style=flat-square)
 ![](https://img.shields.io/badge/RAG_Pipelines-FF6F61?style=flat-square)
 ![](https://img.shields.io/badge/Multi--Agent_Systems-4CAF50?style=flat-square)
 ![](https://img.shields.io/badge/Vector_Databases-FFC107?style=flat-square)
 ![](https://img.shields.io/badge/Prompt_Engineering-9C27B0?style=flat-square)
 
-#### 💻 Languages & Frameworks
+####  Languages & Frameworks
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-#### ☁️ Cloud, Databases & Orchestration
+####  Cloud, Databases & Orchestration
 ![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
