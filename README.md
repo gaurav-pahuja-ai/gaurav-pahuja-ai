@@ -52,12 +52,5 @@ During my Master's at IIT Kanpur, I designed and built a live **AI Learning Plat
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurav-pahuja-ai&show_icons=true&theme=radial&hide_border=true" alt="Gaurav's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-pahuja-ai&layout=compact&theme=radial&hide_border=true" alt="Top Langs" />
-</p>
-
----
 
 *“Driving technical innovation and translating complex system requirements into scalable software solutions.”*
