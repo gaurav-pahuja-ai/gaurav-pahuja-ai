@@ -11,11 +11,10 @@
 
 ---
 
-### 👨‍💻 About Me
-I am a Senior Software Engineer with **10+ years of experience** building high-throughput backend services and productionizing Agentic AI architectures. I hold an **Master's in AI/ML from IIT Kanpur**. I love bridging the gap between enterprise-grade engineering and advanced generative AI systems.
-
-* **🔭 Currently building:** Production RAG pipelines, multi-tool LLM agents (MCP), and metadata-driven onboarding engines.
-* **🎓 Academic Focus:** AI Foundations, Vector Retrievals, and Agentic Workflows.
+### About Me
+I specialize in building high-throughput backend services and productionizing Agentic AI architectures. I hold a **Master's in AI/ML from IIT Kanpur**. I love bridging the gap between enterprise-grade engineering and advanced generative AI systems.
+* **Currently building:** Production RAG pipelines, multi-tool LLM agents (MCP), and metadata-driven onboarding engines.
+* **Academic Focus:** AI Foundations, Vector Retrievals, and Agentic Workflows.
 
 ---
 
