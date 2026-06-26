@@ -3,7 +3,7 @@
   <p><b>Senior Software Engineer | Backend & AI Specialist | Forward Deployed Engineer</b></p>
   
   <p>
-    <a href="https://linkedin.com/in/gaurav-pahuja"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/gaurav-pahuja-396a3388"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:gaurav14pahuja@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://ai-learning-hub-ten-xi.vercel.app/"><img src="https://img.shields.io/badge/Live_Project-AI_Hub-FF9900?style=for-the-badge&logo=vercel&logoColor=white" alt="AI Learning Hub" /></a>
   </p>
