@@ -43,12 +43,10 @@ I specialize in building high-throughput backend services and productionizing Ag
 
 ---
 
-### 🚀 Highlight Project: [AI Learning Hub](https://ai-learning-hub-ten-xi.vercel.app/)
+### 🚀 Highlight Project: [AI Learning Hub](https://tokenvidia.com/)
 
 During my Master's at IIT Kanpur, I designed and built a live **AI Learning Platform** containing interactive explanations of modern GenAI paradigms:
-* **Core Modules:** Prompt Engineering, Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), and Agentic Systems.
-* **Tech Stack:** Next.js/TypeScript, TailwindCSS, and integration with live LLM engines.
-
+* **Core Modules:** AI Foundations, Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), and Agentic Systems.
 ---
 
 
